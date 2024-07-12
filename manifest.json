@@ -1,6 +1,6 @@
 {
     "name": "RoPro Roblox Extension ",
-    "description": "Extension for https://www.roblox.com/",
+    "description": "Extension for https://www.roblox.com",
     "version": "1.0.0",
     "manifest_version": 3,
 
@@ -9,7 +9,7 @@
     },
 
     "host_permissions": [
-        "https://%2A/*"
+        "https://*/*"
     ],
 
     "permissions": [
